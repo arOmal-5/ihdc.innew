@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+  font-family: 'Adobe Clean', sans-serif;
+  font-family: 'Adobe Clean Serif', sans-serif;
+  font-family: 'Adobe Clean UX', sans-serif;
+
+}

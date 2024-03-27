@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.5" height="60.5" viewBox="0 0 60.5 60.5">
+  <defs>
+    <filter id="bg1" x="0" y="0" width="60.5" height="60.5" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#258f67" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon-credit-card" transform="translate(0.25 0.25)">
+    <g transform="matrix(1, 0, 0, 1, -0.25, -0.25)" filter="url(#bg1)">
+      <circle id="bg1-2" data-name="bg1" cx="30" cy="30" r="30" transform="translate(0.25 0.25)" fill="#fff" stroke="#83aaba" stroke-width="0.5"/>
+    </g>
+    <g id="Icon-credit-card-2" data-name="Icon-credit-card" transform="translate(15 17)">
+      <path id="Path_2" data-name="Path 2" d="M28.094,10.909a.908.908,0,0,0-.906.909v6.364H1.813V7.273h9.969a.909.909,0,0,0,0-1.818H1.813V1.818h9.969a.909.909,0,0,0,0-1.818H1.813A1.816,1.816,0,0,0,0,1.818V18.182A1.816,1.816,0,0,0,1.813,20H27.188A1.816,1.816,0,0,0,29,18.182V11.818A.908.908,0,0,0,28.094,10.909Z" transform="translate(0 6)" fill="#258f67"/>
+      <path id="Path" d="M5,0H1A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" transform="translate(4 17)" fill="#258f67"/>
+      <path id="Exclusion_1" data-name="Exclusion 1" d="M21665.939,7479.021c-.229,0-.395-.009-.518-.014h-.051c-.072,0-.131-.005-.18-.005a.791.791,0,0,0-.191.02,15.594,15.594,0,0,1-5.408-4.909,11.9,11.9,0,0,1-1.592-6.492v-3.8c0-.45.318-.75,1-.946l6-2.85c.188-.014.346-.021.5-.021s.313.006.5.021l6,2.85c.684.2,1,.5,1,.946v3.8a11.9,11.9,0,0,1-1.592,6.5,15.6,15.6,0,0,1-5.41,4.9.7.7,0,0,0-.154-.019c-.029,0-.043,0-.043.005s0,.006.045.009l.092,0Zm.061-17-6,2.812v2.813c0,4.516,1.514,6.88,6,9.372,3.691-2.615,5-5.067,5-9.372v-2.812Zm-1.375,10h-.039a.905.905,0,0,1-.689-.386l-1.752-2.567a.851.851,0,0,1,.244-1.191.886.886,0,0,1,1.213.24l1.088,1.593,2.752-3.372a.881.881,0,0,1,.682-.319.9.9,0,0,1,.549.188.832.832,0,0,1,.135,1.2l-3.5,4.286A.89.89,0,0,1,21664.625,7472.019Z" transform="translate(-21643 -7460.016)" fill="#258f67" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
